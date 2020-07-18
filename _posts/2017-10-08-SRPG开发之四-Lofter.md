@@ -21,7 +21,7 @@ tags: [该写什么标签好呢……？,ProjectUta,Project Ktr]
 
 随后就是整个系统的动态化，场景和地图等等都不是在程序里面写死的，而是根据配置文件动态生成——毕竟以前吃过亏，同样的系统复制粘贴到了多个场景之中去，发现一个小bug挨个修改挨个再测试实在是不要太爽——没有父子事件实在是太气人啦！
 
-![图片](images/_Lofter/emhSNkVpRmJBei95UTFTQXc3bjl4bEZuQytrODYwNk5odjdyb0VvZXlDNUczb3JTY3VsUUJBPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBei95UTFTQXc3bjl4bEZuQytrODYwNk5odjdyb0VvZXlDNUczb3JTY3VsUUJBPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 然后就是将八个月之前的移动范围计算算法复制黏贴过来，稍微修改了下，改成了面向对象的——大概是吧，不是也请不要喷我。虽然地图生成方面改了个乱七八糟，但八个月之前的代码居然还能够稳定运行，嗯，bingo
 
 战略视图在坐标变换上还有一点小小的问题，嗯，引擎默认不会计算浮点数，截断了……断了……

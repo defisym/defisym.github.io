@@ -23,7 +23,7 @@ Fusion里虽然可以使用数组，但并不能像C++那么方便，给角色�
 
 除此之外，还提供了状态（包括状态特性）的检测、附加和强制解除方法。状态在附加前，先会对现有状态进行检测，不存在附加状态的情况下，会直接附加状态，在存在时，则会追加状态层数和持续回合。对于可替换状态的情形，高优先级的会替换低优先级的，优先级设定为-1的会强制替换现有的可替换状态，并且可以被所有可替换状态替换。
 
-![图片](images/_Lofter/emhSNkVpRmJBejljU0s2TExSdEtYSWJwK1VFL2l3ekJ6cS9xNDViNExtbUt2TzcyL3dTYThRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBejljU0s2TExSdEtYSWJwK1VFL2l3ekJ6cS9xNDViNExtbUt2TzcyL3dTYThRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 
 在特定的回调点，会对当前行动单位或目标单位或所有单位的状态进行检测，根据所查状态或特性的不同，执行相应的功能，例如无法行动、或受到攻击时解除，在需要的时候，显示提示信息。回调完成处理后，如果处理过程中没有指定出口，则通过默认回调出口离开，继续进行其他流程的处理。
 

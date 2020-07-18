@@ -15,7 +15,7 @@ tags: [该写什么标签好呢……？,Project Ktr,ProjectUta]
 
 但，事实上并没有那么神乎其神——别说我能写了，就算我能够看懂他们AI的算法和代码，我就直接能去各大研究院了！
 
-![图片](images/_Lofter/emhSNkVpRmJBejhJdjU4SkxNVmZSZ2gwSVh6b0FkMkZvSjBIeDJwMEFON2g2V0dzM09MeXV3PT0.gif?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBejhJdjU4SkxNVmZSZ2gwSVh6b0FkMkZvSjBIeDJwMEFON2g2V0dzM09MeXV3PT0.gif?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 
 <span style="text-decoration:line-through;">（嗯，自然是不可能的）</span>
 

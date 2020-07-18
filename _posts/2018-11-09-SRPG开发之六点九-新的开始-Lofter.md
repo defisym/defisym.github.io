@@ -13,7 +13,7 @@ tags: [Project Ktr,ProjectUta,该写什么标签好呢……？]
 
 AVG系统最早始于2016年6月，在2016年7月有了第一个堪用的版本，断断续续修修补补到9月底，10月准备考试，11月传颂3发售各种P图水群（那时候虽然很傻但真的很开心），然后企划开始，接下来继续增加新功能，比如交叠淡化——看，这么重要和基础的东西，我这个时候才补上，更不要提退出按钮直到17年5月前后才加上……
 
-![图片](images/_Lofter/emhSNkVpRmJBei9sYmlvWDJxU0pjdDFMRVMzS1VFQzVvb2hISDhHVmdONEoyQ0JhalY4QmhRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBei9sYmlvWDJxU0pjdDFMRVMzS1VFQzVvb2hISDhHVmdONEoyQ0JhalY4QmhRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 
 所以不要随随便便说不用改了啊，就像一百多年前，物理学的晴空上只剩下两朵乌云，经过物理学家们一百多年的努力，现在满天都是乌云
 

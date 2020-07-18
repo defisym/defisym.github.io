@@ -11,7 +11,7 @@ tags: [该写什么标签好呢……？,ProjectUta]
 
 现在虽然看起来没什么问题，但是实际上堆叠了好多判定物体，如果移动范围大的话会很卡……
 
-![图片](images/_Lofter/emhSNkVpRmJBejgxK01GYXljQTlNMWhLaytlNS9DR0NNUnFKUjBUOXU1elo1NEtJZFBTSzNnPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBejgxK01GYXljQTlNMWhLaytlNS9DR0NNUnFKUjBUOXU1elo1NEtJZFBTSzNnPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 
 而且指示必须是不透明的否则堆叠在一起透明度就变了摔！
 

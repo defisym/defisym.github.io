@@ -5,7 +5,7 @@ date: 2017-11-26 20:07:33
 tags: [传颂之物,该写什么标签好呢……？]
 
 ---
-![图片](images/_Lofter/emhSNkVpRmJBei9Fbkt3aEFINk9oRXI5SXJYcjVHY3VFbGRRZWVUbzhBZFhSM1BHK003OHBRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBei9Fbkt3aEFINk9oRXI5SXJYcjVHY3VFbGRRZWVUbzhBZFhSM1BHK003OHBRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 我又无聊了……
 
 算了，我还是滚回去准备考试吧……

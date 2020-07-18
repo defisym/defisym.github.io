@@ -25,7 +25,7 @@ tags: [Project Ktr,ProjectUta,该写什么标签好呢……？]
 
 在每次完成编译后，都会保留一个缓存文件，每次需要编译时，会验证该文件是否与当前文本块值一致，若一致则跳过编译过程；若不一致，则判读文件大小，大于25KB则进入loading界面，小于则在点击的瞬间完成加载与编译过程
 
-![图片](images/_Lofter/emhSNkVpRmJBeis3SEM2aVZWa0JkbEYyc3NuQXBJQ2NEUWRhb1JCVVRubHc5MFVoSFV6cUR3PT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBeis3SEM2aVZWa0JkbEYyc3NuQXBJQ2NEUWRhb1JCVVRubHc5MFVoSFV6cUR3PT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 
 引擎运行的机制是完成一帧内所有的指令后刷新画面，如果还是像之前那样将加载与编译放在一帧内完成而非并行处理，那么loading界面的意义并不大，还很有可能会失去响应……所以需要稍作修改为并行处理，也就是将整体的任务平均分配至每一帧内完成
 

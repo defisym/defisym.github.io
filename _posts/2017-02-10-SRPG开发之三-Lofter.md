@@ -9,7 +9,7 @@ tags: [该写什么标签好呢……？,ProjectUta]
 
 ·（现在你往哪儿看都可以了）
 
-![图片](images/_Lofter/emhSNkVpRmJBei9NUXVEWFZhZVZCMXdNbTY2bnBNM3FtZXlCL1N5V0pGK091S0Z3UlExd2RRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBei9NUXVEWFZhZVZCMXdNbTY2bnBNM3FtZXlCL1N5V0pGK091S0Z3UlExd2RRPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 
 ·优化了算法，现在不会出现堆叠判定点的问题了，最高可以寻路20层
 

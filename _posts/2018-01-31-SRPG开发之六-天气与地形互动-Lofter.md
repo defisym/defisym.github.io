@@ -13,7 +13,7 @@ tags: [Project Ktr,ProjectUta,该写什么标签好呢……？]
 
 功能是越做越多，战斗的定义文件也是越来越长，幸好能折叠，不然改一个参数我都得想找点什么东西撞死
 
-![图片](images/_Lofter/emhSNkVpRmJBeitmc0Q2UUs5SExVMGV1UzRkQVFqbTFRS0llNzhrUGhYK1JOVU9USVMvTUpnPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)
+![图片](./images/_LofteremhSNkVpRmJBeitmc0Q2UUs5SExVMGV1UzRkQVFqbTFRS0llNzhrUGhYK1JOVU9USVMvTUpnPT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)
 
 反正比最开始手写AVG脚本要强多了，**战斗场景编辑器制作预定**，应该也是所见即所得鼠标点点点指定各种方块坐标的类型
 

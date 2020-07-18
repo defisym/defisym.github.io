@@ -14,6 +14,6 @@ iOS的相册越来越沙雕了
 _(:з)∠)_
 
 
-![图片](images/_Lofter/emhSNkVpRmJBejlHcEg0MW4rZjViTWlFbFBUSXRvRFd0UjVzdGJLYUlEaGJ5KzEvNzl2Qjl3PT0.jpg)
+![图片](./images/_LofteremhSNkVpRmJBejlHcEg0MW4rZjViTWlFbFBUSXRvRFd0UjVzdGJLYUlEaGJ5KzEvNzl2Qjl3PT0.jpg)
 
-![图片](images/_Lofter/emhSNkVpRmJBejlHcEg0MW4rZjViR0pCTzJWWFFtT1o5MVFmUDU3cWNzc2xPSUM4VXdDYlZ3PT0.jpg)
+![图片](./images/_LofteremhSNkVpRmJBejlHcEg0MW4rZjViR0pCTzJWWFFtT1o5MVFmUDU3cWNzc2xPSUM4VXdDYlZ3PT0.jpg)

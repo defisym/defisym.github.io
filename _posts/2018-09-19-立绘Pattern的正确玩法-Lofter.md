@@ -7,7 +7,7 @@ tags: [ProjectUta,Project Ktr,该写什么标签好呢……？]
 ---
 摸鱼N日
 
-![图片](images/_Lofter/emhSNkVpRmJBei9PM01nQldIOHpRSDUrdEUyWTZDdWRpWlBWWVhtei84Y3pqamJRbFYzYmV3PT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBei9PM01nQldIOHpRSDUrdEUyWTZDdWRpWlBWWVhtei84Y3pqamJRbFYzYmV3PT0.png?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 啊啊，突然想起来小时候看的数码宝贝，最后打黑色的Boss被分解的情节了……
 
 要灵活用这个特效，将动画过度的速度开放成设置是必须的

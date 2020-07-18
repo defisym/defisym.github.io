@@ -17,7 +17,7 @@ tags: [Project Ktr,ProjectUta,该写什么标签好呢……？,独立游戏]
 
 当然，毕设提前一个月做的差不多了打异度神剑就是另一种体验了，珍爱生命，远离日系游戏，打起来比上班还累。总之这一作算是把我未来三年的JRPG额度吃光了，然后我还发现我单抽出的稀有剑全是怜悯系统送的。什么？你说宝可梦？PM因为销量太高早就被开除JRPG籍了。
 
-![图片](images/_Lofter/emhSNkVpRmJBeithSkR1WldtWHRQRDRWcVZKdnJ1Z01jV25wc21iTXAwMFZRb3hnYTlNaHVBPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](./images/_LofteremhSNkVpRmJBeithSkR1WldtWHRQRDRWcVZKdnJ1Z01jV25wc21iTXAwMFZRb3hnYTlNaHVBPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
 
 不过，相较去年的冷冷清清，进入五月之后，Lof上隐隐有点“文艺复兴”的趋势。大约是临近期末该干的活都做的差不多了，纷纷蠢蠢欲动起来的缘故吧。总打游戏是不好的，浪费时间是一方面，累是另一方面，主机游戏是真的贵……而且异度神剑是真的糊，全程梦回PSP。
 
