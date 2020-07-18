@@ -13,7 +13,7 @@ tags: [独立游戏,传颂之物,Project Ktr,ProjectUta,该写什么标签好�
 
 从18年底开始，我的精力基本就全放在SLG上了，包括打《风花雪月》这种SLG类游戏在内（笑）。和AVG部分一样，SLG部分我也给起了个名字，White Maple。
 
-![图片](images/_Lofter/emhSNkVpRmJBei9XU1d1SEhMSDZtUGtxZ0xobHFOZnNXaTB2UkpBeGNFaWoyM2hhT1ByVlZnPT0.jpg?=imageView&thumbnail=500x0&quality=96&stripmeta=0&type=jpg%7Cwatermark&type=2)  
+![图片](images/_Lofter/emhSNkVpRmJBei9XU1d1SEhMSDZtUGtxZ0xobHFOZnNXaTB2UkpBeGNFaWoyM2hhT1ByVlZnPT0.jpg)  
 
 工欲善其事，必先利其器。在有了“SLG的本质是连通图上点的关系问题”这样一个指导思想后，过去一直若有若无的笼罩在系统实现上的那层迷雾终于消退掉了，在我面前展露出一个非常清晰的图景。在19年2月的状态系统之后，我陆续比较顺利的实现了许多模块与系统，包括但不限于：
 
