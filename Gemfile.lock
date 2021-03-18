@@ -210,7 +210,7 @@ GEM
     nokogiri (1.10.8)
       mini_portile2 (~> 2.4.0)
     octicons (9.3.1)
-      nokogiri (>= 1.6.3.1)
+      nokogiri (>= 1.11.0)
     octokit (4.15.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
