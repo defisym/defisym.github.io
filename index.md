@@ -1,4 +1,4 @@
-# Defisym's Blog
+# Irregulars*
 
 Hello and welcome to this blog.
 
