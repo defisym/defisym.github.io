@@ -1,4 +1,7 @@
 ---
+layout: post
+title:  "Mobius Band*"
+data:
 permalink: "/games/MobiusBand.html"
 ---
 
