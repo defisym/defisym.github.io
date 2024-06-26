@@ -1,3 +1,3 @@
 # About
 
-某人用来不务正业的。
+Irregulars

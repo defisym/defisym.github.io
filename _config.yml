@@ -6,13 +6,13 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Defisym's Blog
-description: Defisym's Blog
+title: Irregulars*
+description: Irregulars*
 github_username: defisym
 
 # Email and twitter are optional:
-email: defisym@outlook.com
-twitter_username: defisym
+# email: defisym@outlook.com
+# twitter_username: defisym
 
 # Set this to true to get LaTeX math equation support
 use_math:
