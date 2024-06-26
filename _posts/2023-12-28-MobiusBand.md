@@ -12,9 +12,7 @@ permalink: "/games/MobiusBand.html"
 
 ![mobius logo](../assets/img/mobius/logo_2x.png)
 
-## 关于这款游戏
-
-### 游戏介绍
+## 游戏介绍
 
 随着第三次世界大战戏剧性的结束，量子技术的实验性应用，人类开始步入崭新的工业革命，被称为量子变革的时代，同时也开始新冷战时代。由多国合并而成的CES成为了第一大国,却掩盖不了因科技快速发展、贫富差距拉大与宗教问题所带来的高犯罪率。政府在市民身体中埋入芯片，用来监视犯罪行动。
 
@@ -24,7 +22,7 @@ permalink: "/games/MobiusBand.html"
 
 ![mobius logo](../assets/img/mobius/pad.jpg)
 
-### 配音成员
+## 配音成员
 
 丽丽娅：闲踏梧桐
 
@@ -40,7 +38,7 @@ permalink: "/games/MobiusBand.html"
 
 莫莉&爱奈：w小璃
 
-### 制作组成员
+## 制作组成员
 
 主催：月
 
@@ -60,6 +58,6 @@ permalink: "/games/MobiusBand.html"
 
 美工：粒子
 
-#### 游戏交流反馈
+## 游戏交流反馈
 
 QQ群：73580810
