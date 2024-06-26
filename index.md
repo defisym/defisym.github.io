@@ -1,6 +1,6 @@
 # Irregulars*
 
-![Image of fast.ai logo](assets/img/irregulars/logo.png)
+![irregulars logo](assets/img/irregulars/logo.png)
 
 <!-- ## This is a title
 
