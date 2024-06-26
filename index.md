@@ -1,8 +1,6 @@
 # Irregulars*
 
-Hello and welcome to this blog.
-
-<!-- ![Image of fast.ai logo](images/logo.png) -->
+![Image of fast.ai logo](assets/img/irregulars/logo.png)
 
 <!-- ## This is a title
 
