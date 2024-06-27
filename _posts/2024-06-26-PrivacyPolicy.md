@@ -61,4 +61,5 @@ permalink: "/info/PrivacyPolicy.html"
 
 如果您对本隐私政策有任何疑问或建议，请通过以下方式与我们联系:
 
-QQ群：73580810
+- 发送邮件到: <bridal-fend.0k@icloud.com>
+- QQ群: 73580810
