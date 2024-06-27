@@ -9,7 +9,7 @@ permalink: "/games/MobiusBand.html"
 
 《Mobius Band*》是一款中篇视觉小说游戏。 在那样的时代中，每个人都无力他顾，失去的只能沉寂在心底，仿徨和挣扎是大部分人的缩影，遥望未来本身即一种奢求，苟全于当下已是力竭，繁华文明的皮囊下是名副其实的地狱。 尚未平息的战火纷争中，攥着稻草的他们，最后会如何选择呢——
 
-![mobius logo](../assets/img/mobius/logo_2x.png)
+![mobius logo](../assets/img/mobius/logo_2x_black.png)
 
 ## 游戏介绍
 
@@ -19,7 +19,7 @@ permalink: "/games/MobiusBand.html"
 
 2054年，弗兰克联邦共和国的菲利雅·冯克里斯蒂安来访期间，军部特殊机构培养的中士丽丽亚·赛特被安排到了伊扎克所属的独立部队第三小队，执行保护菲利雅的任务。然而因为任务中的一个意外， 丽丽娅·赛特开始对自身的存在产生了疑惑....
 
-![mobius logo](../assets/img/mobius/pad.jpg)
+![pad](../assets/img/mobius/pad.jpg)
 
 ## 配音成员
 

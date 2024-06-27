@@ -1,6 +1,6 @@
 # About
 
-![irregulars logo](assets/img/irregulars/logo.png)
+![irregulars logo](assets/img/irregulars/logo_black.png)
 
 Irregulars* is...
 
