@@ -13,7 +13,7 @@ permalink: "/info/SinglePlayerPrivacyPolicy.html"
 
 本政策适用于通过我们的单人游戏或通过销售这些游戏的店面收集的个人信息，例如电子邮件地址。
 
-我们网站的隐私政策可在[此处](https://irregular-s.xyz/info/PrivacyPolicy.html)访问。
+我们网站的隐私政策可在[此处]({{site.url}}/info/PrivacyPolicy.html)访问。
 
 ## 信息的使用
 
