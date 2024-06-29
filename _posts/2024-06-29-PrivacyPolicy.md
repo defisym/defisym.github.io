@@ -25,7 +25,7 @@ permalink: "/info/PrivacyPolicy.html"
 
 ## 数据控制者
 
-出于数据收集目的，数据控制者是irregulars，一个来自中国，通过互联网进行写作的同人制作组。
+出于数据收集目的，数据控制者是irregulars，一个来自中国，通过互联网进行协作的同人制作组。
 
 ## 信息的收集
 
