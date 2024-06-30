@@ -2,7 +2,7 @@
 layout: post
 title:  "Privacy Policy"
 data:
-permalink: "/info/PrivacyPolicy.html"
+permalink: "/info/PrivacyPolicy"
 ---
 
 # 隐私政策
