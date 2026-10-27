@@ -1,34 +1,27 @@
 source "https://rubygems.org"
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
-# gem "jekyll", "~> 4.0.0"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
+
+# Keep the GitHub Pages Jekyll major version, but declare the site's plugins
+# explicitly: github-pages also installs unused plugins with vulnerable pins.
+gem "jekyll", "~> 3.10"
 gem "minima", "~> 2.5"
-# To upgrade, run `bundle update github-pages`.
-gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+gem "webrick", "~> 1.9"
+gem "kramdown-parser-gfm", "~> 1.1"
+gem "kramdown-math-katex", "~> 1.0"
+gem "faraday-retry", "~> 2.4", require: "faraday/retry"
+
 group :jekyll_plugins do
-  # gem "jekyll-feed", "~> 0.12"
-  gem 'jekyll-octicons'
+  gem "jekyll-gist", "~> 1.5"
+  gem "jekyll-octicons"
+  gem "jekyll-github-metadata", "~> 2.16"
+  gem "jekyll-titles-from-headings", "~> 0.5"
+  gem "jekyll-optional-front-matter", "~> 0.3"
+  gem "jekyll-default-layout", "~> 0.1"
+  gem "jekyll-relative-links", "~> 0.6"
+  gem "jekyll-readme-index", "~> 0.3"
 end
 
-gem "jekyll-github-metadata"
-
-# Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
-# and associated library.
-install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
-  gem "tzinfo", "~> 1.2.10"
+# Windows and JRuby do not include zoneinfo files.
+platforms :mingw, :x64_mingw, :mswin, :jruby do
+  gem "tzinfo", "~> 1.2", ">= 1.2.11"
   gem "tzinfo-data"
 end
-
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :install_if => Gem.win_platform?
-
-gem "faraday", "< 1.0"
-
