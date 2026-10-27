@@ -2,7 +2,7 @@ source "https://rubygems.org"
 
 # Keep the GitHub Pages Jekyll major version, but declare the site's plugins
 # explicitly: github-pages also installs unused plugins with vulnerable pins.
-gem "jekyll", "~> 3.10"
+gem "jekyll", "~> 4.4"
 gem "minima", "~> 2.5"
 gem "webrick", "~> 1.9"
 gem "kramdown-parser-gfm", "~> 1.1"
