@@ -97,7 +97,7 @@ GEM
       octicons (= 19.42.0)
     jekyll-optional-front-matter (0.3.4)
       jekyll (>= 3.0, < 5.0)
-    jekyll-readme-index (0.5.1)
+    jekyll-readme-index (0.6.0)
       jekyll (>= 3.0, < 5.0)
     jekyll-relative-links (0.9.1)
       jekyll (>= 3.3, < 5.0)
@@ -199,7 +199,7 @@ DEPENDENCIES
   jekyll-github-metadata (~> 2.16)
   jekyll-octicons
   jekyll-optional-front-matter (~> 0.3)
-  jekyll-readme-index (~> 0.3)
+  jekyll-readme-index (~> 0.6)
   jekyll-relative-links (~> 0.6)
   jekyll-titles-from-headings (~> 0.6)
   kramdown-math-katex (~> 1.0)
